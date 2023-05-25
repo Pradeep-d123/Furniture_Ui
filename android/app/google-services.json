@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815500092572",
+    "project_id": "furniture-213ec",
+    "storage_bucket": "furniture-213ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815500092572:android:4eca711a4265fb495a3959",
+        "android_client_info": {
+          "package_name": "com.example.nimma_furniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815500092572-u52o3t65ml9kreukfereec0mc6mnpeck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFgoVhlSzo0TlG4Hb8PnCG-e6BBUhGb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815500092572-u52o3t65ml9kreukfereec0mc6mnpeck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
